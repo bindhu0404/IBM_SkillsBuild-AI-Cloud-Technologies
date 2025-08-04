@@ -34,7 +34,7 @@ To develop a reliable fault classification system that can assist in the rapid i
 - Python 3.10+  
 - pandas, numpy, scikit-learn  
 - IBM Watsonx.ai (for deployment)  
-- IBM Cloud Lite (for hosting model APIs)
+- IBM Cloud(for hosting model APIs)
 
 ---
 
